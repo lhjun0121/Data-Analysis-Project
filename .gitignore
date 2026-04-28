@@ -1,7 +1,7 @@
 # raw Data
 raw/
-.csv
-.xlsx
+*.csv
+*.xlsx
 
 # 참고
-.pdf
+*.pdf
