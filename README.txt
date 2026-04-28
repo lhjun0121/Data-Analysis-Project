@@ -34,5 +34,6 @@
     3) jupyter notebook 실행하여
 	1) 1_Merge.ipynb
 	2) 2_preprocessing
-	3) 3_Modeling.ipynb
+	3) 3_FeatureSelect.ipynb
+	4) 4_Modeling.ipynb
 	순서로 실행
